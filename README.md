@@ -2,3 +2,4 @@
 LAB 5 ASSIGNMENT
 
 INDERPAL DHILLON
+Partner: Batzolboo Batsaikhan
